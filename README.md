@@ -46,16 +46,10 @@ Leadership, Problem-Solving, Adaptability, Critical Thinking, Collaboration
 
 ---
 
-## 📈 GitHub Stats
-
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeroman0000&show_icons=true&theme=github_dark)
-
----
-
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/vishal-kumar-250b88266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 📧 Email: your.email@example.com
+- 📧 Email:imvishal8809100204@gmail.com
 - 🧠 [LeetCode](https://leetcode.com/u/vishalKumar002/)
 
 ---
